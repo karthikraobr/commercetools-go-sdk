@@ -1,0 +1,18 @@
+vendor/
+run.sh
+code-generate/code-generate
+
+# IDE
+.vscode
+.idea
+
+# Test files
+coverage.txt
+debug.test
+
+# Temporary files
+commercetools-go-sdk
+code-generate/prepared.raml
+NOTES.txt
+/main.go
+/api.go
